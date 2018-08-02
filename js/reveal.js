@@ -4257,7 +4257,7 @@
 	}
 
 	function pauseAutoSlide() {
-
+console.log("hi");
 		if( autoSlide && !autoSlidePaused ) {
 			autoSlidePaused = true;
 			dispatchEvent( 'autoslidepaused' );
@@ -4271,7 +4271,6 @@
 	}
 
 	function resumeAutoSlide() {
-
 		if( autoSlide && autoSlidePaused ) {
 			autoSlidePaused = false;
 			dispatchEvent( 'autoslideresumed' );
