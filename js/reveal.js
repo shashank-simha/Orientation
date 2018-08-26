@@ -25,7 +25,6 @@
 
 	var Reveal;
 
-
     // Initialize Firebase
     var config = {
         apiKey: "AIzaSyCTscTVbwG1Nfrb-cjtJahl4SR4FHA5npg",
@@ -39,7 +38,9 @@
 
     var ref = firebase.database().ref();
 
-    ref.child("presentations/new").on("value", function(snapshot) {
+    var present_name = "orientation";
+
+    ref.child("presentations/" + present_name).on("value", function(snapshot) {
         console.log(snapshot.val());
         if(snapshot.val() == "next")
         {
@@ -241,7 +242,7 @@
 			display: 'block',
 
 			// Script dependencies to load
-			dependencies: []
+			dependencies: ["new.js"]
 
 		},
 
@@ -4257,7 +4258,6 @@
 	}
 
 	function pauseAutoSlide() {
-console.log("hi");
 		if( autoSlide && !autoSlidePaused ) {
 			autoSlidePaused = true;
 			dispatchEvent( 'autoslidepaused' );
