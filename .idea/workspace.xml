@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c81849f8-1526-49b3-a67d-d66424da537c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118718982.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118769037.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118776598.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118816424.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118824966.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118867555.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118919846.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535118962673.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535119093540.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535119096526.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/FB_IMG_1535119151182.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/ieee_xtreme.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/CodeLabs.jpeg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/reveal.scss" afterPath="$PROJECT_DIR$/css/reveal.scss" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/reveal.js" afterPath="$PROJECT_DIR$/js/reveal.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,37 +26,15 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reveal.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/reveal.css">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FB_IMG_1535118769037.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/FB_IMG_1535118769037.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="collabratec.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/collabratec.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reveal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/reveal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76806">
-              <caret line="4273" column="39" lean-forward="false" selection-start-line="4273" selection-start-column="39" selection-end-line="4273" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#b#0;n#section#16;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,6 +137,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,10 +147,10 @@
     <property name="SearchEverywhereHistoryKey" value="color&#9;ACTION&#9;ShowColorPicker&#10;color picke&#9;ACTION&#9;ShowColorPicker&#10;color &#9;ACTION&#9;ShowColorPicker&#10;colorpic&#9;ACTION&#9;ShowColorPicker" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -231,22 +196,24 @@
       <workItem from="1535179528167" duration="1787000" />
       <workItem from="1535263642828" duration="5635000" />
       <workItem from="1535281495997" duration="9762000" />
-      <workItem from="1535302146118" duration="188000" />
+      <workItem from="1535302146118" duration="833000" />
+      <workItem from="1535303176143" duration="642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67720000" />
+    <option name="totallyTimeSpent" value="69007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23505977" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23904383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -544,22 +511,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/collabratec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/reveal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76806">
           <caret line="4273" column="39" lean-forward="false" selection-start-line="4273" selection-start-column="39" selection-end-line="4273" selection-end-column="39" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/FB_IMG_1535118769037.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme/beige.css">
@@ -589,13 +546,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/reveal.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -607,7 +557,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/FB_IMG_1535118769037.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/collabratec.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="118" column="26" lean-forward="true" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#section#16;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
